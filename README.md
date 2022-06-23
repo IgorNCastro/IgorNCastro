@@ -2,8 +2,6 @@
 
 My name is Igor and currently I'm studying to be a Full Stack Developer.
 
-I've allways had a passion for technology, but only recently really started to invest in it.
-
 You can check my portfolio by clicking <a href="https://igorncastro.github.io/portfolio/">HERE</a>!
 
 Also you can contact me in any of the social networks bellow...
