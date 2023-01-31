@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Igor and currently I'm studying to be a Full Stack Developer.
+My name is Igor and I'm a Full Stack Developer.
 
 You can contact me in any of the social networks bellow...
 
