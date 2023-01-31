@@ -2,9 +2,7 @@
 
 My name is Igor and currently I'm studying to be a Full Stack Developer.
 
-You can check my portfolio by clicking <a href="https://igorncastro.github.io/portfolio/">HERE</a>!
-
-Also you can contact me in any of the social networks bellow...
+You can contact me in any of the social networks bellow...
 
 <a href="https://www.linkedin.com/in/igorncastro/"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/82491606/173907818-6344ece3-692a-4b63-82a3-e3c6f1882f9f.png" /></a>
 <a href="https://web.facebook.com/castroigor"><img alt="Facebook" src="https://user-images.githubusercontent.com/82491606/173908038-ead3eba8-fa38-4940-88c4-edaa7652ae55.png" /></a>
